@@ -1,3 +1,3 @@
 # contextual-nmn
 
-Uploaded CC-Ref+ data ground-truth and adversarial annottaions. More documentation on this coming soon.
+Uploaded CC-Ref+ data ground-truth and adversarial annotations. More documentation on this coming soon.
